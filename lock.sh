@@ -37,7 +37,7 @@ evtest "$device" | while read line; do
 		($event_leftctrl)	xinput --disable "AT Translated Set 2 keyboard"
 					if [ "$defense_mode" = 0 ]
 				   	then
-						(ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
+						(play -q "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && play -q "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
 						xrandr --output eDP-1 --brightness 0
 						defense_mode=1	
 					fi ;;
@@ -47,7 +47,7 @@ evtest "$device" | while read line; do
 		($event_rightctrl)	xinput --disable "AT Translated Set 2 keyboard"
 					if [ "$defense_mode" = 0 ]
 				   	then
-						(ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
+						(play -q "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && play -q "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
 						xrandr --output eDP-1 --brightness 0
 						defense_mode=1
 					fi ;;
@@ -57,7 +57,7 @@ evtest "$device" | while read line; do
 		($event_alt)		xinput --disable "AT Translated Set 2 keyboard"
 					if [ "$defense_mode" = 0 ]
 				   	then
-						(ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
+						(play -q "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && play -q "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
 						xrandr --output eDP-1 --brightness 0
 						defense_mode=1
 					fi ;;
@@ -67,7 +67,7 @@ evtest "$device" | while read line; do
 		($event_altgr)		xinput --disable "AT Translated Set 2 keyboard"
 					if [ "$defense_mode" = 0 ]
 				   	then
-						(ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
+						(play -q "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && play -q "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
 						xrandr --output eDP-1 --brightness 0
 						defense_mode=1
 					fi ;;
@@ -84,7 +84,7 @@ evtest "$device" | while read line; do
 
 		($event_windows)	if [ "$defense_mode" = 0 ]
 					then
-						(ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
+						(play -q "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && play -q "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
 						xrandr --output eDP-1 --brightness 0
 						defense_mode=1
 					fi
@@ -92,7 +92,7 @@ evtest "$device" | while read line; do
 
 		($event_tab)		if [ "$defense_mode" = 0 ]
 					then
-						(ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && ffplay -nodisp -autoexit -nostats -loglevel quiet "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
+						(play -q "/home/jessy/Music/Sound effects/Metal Gear Alert! Sound Effect.mp3" & sleep 1 && play -q "/home/jessy/Music/Sound effects/Alexa-Intruder-Alert.mp3") &
 						xrandr --output eDP-1 --brightness 0
 						defense_mode=1
 					fi
