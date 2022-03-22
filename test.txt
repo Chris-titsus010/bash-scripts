@@ -1,0 +1,6 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
+
+no_proxy="127.0.0.1,localhost"
+http_proxy="http://jvarin:Js73*dU1&he5@95.9.4.199:3128"
+https_proxy="http://jvarin:Js73*dU1&he5@95.9.4.199:3128"
+ftp_proxy="http://jvarin:Js73*dU1&he5@95.9.4.199:3128"
