@@ -1,6 +1,0 @@
-PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
-
-no_proxy="127.0.0.1,localhost"
-http_proxy="&~"#'{([-|_\@)]=+}^$*%!:;.,?/<>"
-https_proxy="&~"#'{([-|_\@)]=+}^$*%!:;.,?/<>"
-ftp_proxy="&~"#'{([-|_\@)]=+}^$*%!:;.,?/<>"
