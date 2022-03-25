@@ -1,4 +1,4 @@
-# playOnStroke [WIP]
+# Play On Stroke [WIP]
 
 Plays audio from an online url or a local file whenever user is not typing on the keyboard.
 
