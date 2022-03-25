@@ -1,4 +1,9 @@
+# Updater
+
 Updates, lists available upgrades before prompting for it, and finally, autoremoves unused packages.
 
-Improvments:
+<br/>
+<br/>
+
+### Improvments:
  - If upgradable list empty, could early exit. Same goes for autoremove.
