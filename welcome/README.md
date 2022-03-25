@@ -7,5 +7,7 @@ Displays a welcome message and some 'useful' informations like battery life, tim
 <br/>
 <br/>
 
+---
+
 ### Improvements:
  - Could prompt for update
