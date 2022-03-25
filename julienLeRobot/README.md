@@ -1,4 +1,4 @@
-# julienLeRobot
+# Julien Le Robot
 
 Plays robot sounds recorded by my friend Julien when typing on the keyboard.
 
