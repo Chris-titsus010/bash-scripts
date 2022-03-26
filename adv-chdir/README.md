@@ -7,6 +7,14 @@ Cdx finds the directory you are looking for and takes you there.
 
 ---
 
+### Requirements:
+ - 
+
+<br/>
+<br/>
+
+---
+
 ### Improvements:
  - checks for permission in case needed so user gets prompted with sudo
  - letting user choose directory if multiple results found
