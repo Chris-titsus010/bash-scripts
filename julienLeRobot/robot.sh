@@ -9,9 +9,9 @@ evtest "$device" | while read line; do
         $key_press)
                 if (( $i % 2 ))
                 then
-                        play -q '/home/jessy/Music/Sound effects/Julien-boop.mp3' -t alsa &
+                        play -q 'audio/Julien-boop.mp3' -t alsa &
                 else
-                        play -q '/home/jessy/Music/Sound effects/Julien-beep.mp3' -t alsa &
+                        play -q 'audio/Julien-beep.mp3' -t alsa &
                 fi
                 let "i+=1"
         esac
