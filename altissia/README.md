@@ -7,6 +7,14 @@ Program that completes from start to finish all exercices on the english learnin
 
 ---
 
+### Requirements:
+ - 
+
+<br/>
+<br/>
+
+---
+
 ### Improvements:
  - Improve reliability
  - flag to run lock.sh, takes path to shell script
