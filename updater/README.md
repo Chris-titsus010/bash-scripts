@@ -7,5 +7,13 @@ Updates, lists available upgrades before prompting for it, and finally, autoremo
 
 ---
 
+### Requirements:
+ - 
+
+<br/>
+<br/>
+
+---
+
 ### Improvements:
  - If upgradable list empty, could early exit. Same goes for autoremove.
