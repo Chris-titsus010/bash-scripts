@@ -1,4 +1,4 @@
-# Anti-chtty
+# Anti-chtty [WIP]
 
 Script that counters CTRL+ALT+F4 prank by switching back tty (GUI)
 
