@@ -19,3 +19,4 @@ Displays a welcome message and some 'useful' informations like battery life, tim
 
 ### Improvements:
  - Could prompt for update
+ - Run it on startup via systemd service
