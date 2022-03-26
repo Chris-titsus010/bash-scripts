@@ -1,4 +1,4 @@
-# Cdx / Adv-Chdir (Advanced Change directory)
+# Cdx / Adv-Chdir (Advanced Change directory) [WIP]
 
 Cdx finds the directory you are looking for and takes you there.
 
