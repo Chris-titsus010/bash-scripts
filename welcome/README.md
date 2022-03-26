@@ -9,5 +9,13 @@ Displays a welcome message and some 'useful' informations like battery life, tim
 
 ---
 
+### Requirements:
+ - 
+
+<br/>
+<br/>
+
+---
+
 ### Improvements:
  - Could prompt for update
