@@ -11,6 +11,14 @@ Attemps to workaround the secruity will trigger an intruder alert and deepen the
 
 ---
 
+### Requirements:
+ - 
+
+<br/>
+<br/>
+
+---
+
 ### Improvements:
  - Verify if computer goes to sleep even when program is running
  - Secure the password, i.e enter password on first run, hash and store it
