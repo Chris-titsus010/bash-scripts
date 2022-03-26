@@ -18,6 +18,14 @@ Changes color on every animation reset, never the same color twice in a row.
 
 ---
 
+### Requirements:
+ - 
+
+<br/>
+<br/>
+
+---
+
 ### Improvements:
  - Could explore the possibilities of animation and design on the terminal
  - Could have it in french AND english
